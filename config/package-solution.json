@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cdb-google-search-sp-fx-web-part-client-side-solution",
+    "id": "390efafd-9a76-4778-9251-67c40bf0692e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/cdb-google-search-sp-fx-web-part.sppkg"
+  }
+}

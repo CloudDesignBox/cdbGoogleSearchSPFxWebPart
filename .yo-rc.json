@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "cdb-google-search-sp-fx-web-part",
+    "libraryId": "390efafd-9a76-4778-9251-67c40bf0692e",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
