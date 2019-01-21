@@ -1,7 +1,7 @@
 define([], function() {
   return {
-    "PropertyPaneDescription": "Description",
-    "BasicGroupName": "Group Name",
+    "PropertyPaneDescription": "Web Part by Cloud Design Box",
+    "BasicGroupName": "Search Options",
     "SearchButtonTextLabel": "Search Button Text",
     "SearchStringBgTextLabel": "Search Background Text",
     "GoogleSearchUrlLabel": "Search URL"
