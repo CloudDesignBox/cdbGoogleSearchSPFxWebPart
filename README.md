@@ -11,7 +11,8 @@
 <h1>Building the code - Developers</h1>
 
 ```bash
-git clone the repo
+git clone https://github.com/CloudDesignBox/cdbGoogleSearchSPFxWebPart.git
+cd cdbGoogleSearchSPFxWebPart
 npm i
 gulp serve
 ```
