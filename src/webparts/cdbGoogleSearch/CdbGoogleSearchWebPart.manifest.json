@@ -22,7 +22,7 @@
     "properties": {
       "SearchButtonText": "Search",
       "SearchStringBgText": "Google Search",
-      "GoogleSearchUrl": "https://www.google.com/#q="
+      "GoogleSearchUrl": "https://www.google.com/search?q="
     }
   }]
 }
