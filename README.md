@@ -16,3 +16,5 @@ cd cdbGoogleSearchSPFxWebPart
 npm i
 gulp serve
 ```
+
+// nvm use 8.14.0

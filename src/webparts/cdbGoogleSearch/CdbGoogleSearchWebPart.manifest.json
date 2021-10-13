@@ -18,7 +18,7 @@
     "group": { "default": "Other" },
     "title": { "default": "CDB Google Search" },
     "description": { "default": "A search box which opens a new tab to seach Google" },
-    "officeFabricIconFontName": "Page",
+    "officeFabricIconFontName": "Search",
     "properties": {
       "SearchButtonText": "Search",
       "SearchStringBgText": "Google Search",
