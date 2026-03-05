@@ -1,3 +1,4 @@
+<b>Please note this repository is no longer maintained (2021). Cloud Design Box provide a modern version of this web part as part of their full intranet solution.</b>
 <h1>Cloud Design Box Google Search Web Part</h1>
 
 <p>This is a free web part to add a Google (or other search provider) search box to a modern SharePoint site.</p>
