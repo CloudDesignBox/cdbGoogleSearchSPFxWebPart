@@ -1,16 +1,16 @@
 <b>Please note this repository is no longer maintained (2021). Cloud Design Box provide a modern version of this web part as part of their full intranet solution.</b>
+<p>⚠️ This repository has been archived and is no longer maintained.</p>
+
+<p>This project was originally created for older SharePoint environments and
+is no longer supported by Cloud Design Box.</p>
+
+<p>Please do not use this in production. The repository remains available
+for historical reference only.</p>
 <h1>Cloud Design Box Google Search Web Part</h1>
 
 <p>This is a free web part to add a Google (or other search provider) search box to a modern SharePoint site.</p>
 <img src="https://github.com/CloudDesignBox/cdbGoogleSearchSPFxWebPart/blob/master/GoogleApp.gif" alt="preview of Google Search SharePoint Web Part" />
 
-
-<h1>Download </h1>
-<p> You can contribute to the project or get started using it </p>
-<a href="https://github.com/CloudDesignBox/cdbGoogleSearchSPFxWebPart/raw/master/cdb-google-search-sp-fx-web-part.zip">Download the current version here</a>
-<p>Extract the zip</p>
-<p>Open your SharePoint app catalog</p>
-<p>Follow steps 1-5 on this guide to upload the app into the app catalog - https://www.sharepointdiary.com/2019/12/deploy-app-to-app-catalog-in-sharepoint-online.html</p>
 
 <h1>Building the code - Developers</h1>
 
